@@ -50,20 +50,24 @@ The tool generates an output file containing:
 
 1. Tag Counts Example:
 
-`Tag Counts:
+```
+Tag Counts:
 Tag,Count
 sv_P1,2
 sv_P2,3
 email,3
-Untagged,5`
+Untagged,5
+```
 
 2. Port/Protocol Combination Counts Example:
 
-`Port/Protocol Combination Counts:
+```
+Port/Protocol Combination Counts:
 Port,Protocol,Count
 443,tcp,3
 25,tcp,2
-993,tcp,1`
+993,tcp,1
+```
 
 ## How to Use the Tool
 
