@@ -35,12 +35,14 @@ Example:
 
 A CSV file containing tag mappings with the following structure:
 
-`dstport,protocol,tag \n
+```
+dstport,protocol,tag 
 25,tcp,sv_P1
 68,udp,sv_P2
 443,tcp,sv_P2
 110,tcp,email
-993,tcp,email`
+993,tcp,email
+```
 
 ## Output File
 
