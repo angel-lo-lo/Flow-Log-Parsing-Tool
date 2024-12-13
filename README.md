@@ -118,7 +118,7 @@ Modify the default file paths in the main() function to use custom input/output 
 
 2. Run the script:
 
-> python flowlog_parser.py
+`python flowlog_parser.py`
 
 3. Check the output_results.txt for the parsed results.
 
