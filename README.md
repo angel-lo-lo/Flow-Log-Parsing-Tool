@@ -35,7 +35,7 @@ Example:
 
 A CSV file containing tag mappings with the following structure:
 
-`dstport,protocol,tag
+`dstport,protocol,tag \n
 25,tcp,sv_P1
 68,udp,sv_P2
 443,tcp,sv_P2
