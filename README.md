@@ -67,7 +67,7 @@ Port,Protocol,Count
 
 ### 1. Prepare the Input Files
 
-- flow logs file saved under the path '/home/alo/experimental' with the file name as 'flow_log.txt'.
+- flow logs file saved under the path `/home/alo/experimental` with the file name as 'flow_log.txt'.
 - lookup_table file saved under the path '/home/alo/experimental' with the file name as 'lookup_table.csv'.
 
 ### 2. Run the Script
